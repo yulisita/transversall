@@ -1,0 +1,68 @@
+body{
+    background-color: #c8b1e3;
+    }
+    .img1{
+    display: block;
+    margin: auto;
+    width: 290px;
+    height: 250px;
+    }
+    .encabezado{
+    background-size: 1330px;
+    background-color: rgb(148, 52, 243);
+    width: 100%;
+    height: 120px;
+    border:#c8b1e3;
+    text-align: center;
+    }
+    h1{
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:white;
+    }
+    .seccion1{
+    width: 100%;
+    height: 500px;
+    background-color: rgb(160, 93, 227);
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+    }
+    .seccion2{
+    width: 100%;
+    height: 180px;
+    background-color:rgb(164, 88, 239) ;
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+    }
+    .seccion3{
+    width: 100%;
+    height: 180px;
+    background-color: rgb(159, 102, 217);
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+    }
+    .seccion4{
+    width: 100%;
+    
+    height: 180px;
+    background-color: rgb(186, 136, 235);
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+    }
+    .seccion5{
+    width: 100%;
+    height: 180px;
+    background-color: rgb(202, 167, 237);
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+    }
+    .container{
+    color: #ffffff;
+    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }

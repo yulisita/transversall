@@ -1,0 +1,133 @@
+header{
+    width: 100%;
+    height: 200px;
+    background: #3dc671;
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+}
+
+
+h1{
+    font-size: 50px;
+    display: flex;
+    height: 200px;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    color: rgb(12, 63, 12);
+}
+.img{
+    width: 350px;
+    height: 400px;
+    display: block;
+    margin: auto;
+    padding: 40px;
+     
+}
+h2{
+    font-size: 28px;
+    padding: 25px;
+    color: #0c4329;
+    text-align: center;
+    display: block;
+    margin: auto;
+}
+h3{
+    font-size: 28px;
+    padding: 25px;
+    color: #0c4329;
+    text-align: left;
+}
+
+
+
+
+.seccion1{
+    width: 100%;
+    height: 670px;
+    background: #b2f6cf;
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+}
+.seccion2{
+    width: 100%;
+    height: 700px;
+    background: #6fd29a;
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+}
+
+
+.img1{
+    width: 350px;
+    height: 400px;
+    padding: 30px;
+    display: block;
+    margin: auto;
+
+
+}
+.seccion3{
+    width: 100%;
+    height: 270px;
+    background: #b3eccc;
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+}
+
+
+
+
+
+
+.info{
+    display: flex;
+    justify-content: left;
+}
+h4{
+    font-size: 28px;
+    padding: 10px;
+    color: #0e8225;
+    text-align: right;
+}
+h5{
+    font-size: 28px;
+    padding: 10px;
+    color: #0e8225;
+    text-align: center;
+}
+ol{
+    font-size: 20px;
+    text-align: left;
+    color: aliceblue;
+ 
+}
+.seccion4{
+    width: 100%;
+    height: 600px;
+    background: #49c780;
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+}
+.video{
+    width: 500px;
+    height: 500px;
+    display: block;
+    margin: auto;
+    padding: 10px;
+}
+.link{
+    height: 80px;
+    font-size: 25px;
+    text-align: center;
+    color: #beffdb;
+    display: block;
+    margin: auto;
+}
